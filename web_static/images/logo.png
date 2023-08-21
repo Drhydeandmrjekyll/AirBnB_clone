@@ -1,1 +1,1 @@
-wget "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOVSmlkqGAP6TwsngMiPmvrZNDoHTMjvBcGtZhdUJEu48J8YyMltn7SbQuMb0PWTkHPQ&usqp=CAU" -O image.png
+wget "/c/Users/user/Downloads/logo.png" -O image.png
